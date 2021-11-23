@@ -1,0 +1,28 @@
+****************************************
+Fold 1 | Traning and Evaluate Validation
+AUC of validation: 0.7542233211681942
+****************************************
+
+****************************************
+Fold 2 | Traning and Evaluate Validation
+AUC of validation: 0.7523777821718505
+****************************************
+
+****************************************
+Fold 3 | Traning and Evaluate Validation
+AUC of validation: 0.7536284384614107
+****************************************
+
+****************************************
+Fold 4 | Traning and Evaluate Validation
+AUC of validation: 0.7540485381517004
+****************************************
+
+****************************************
+Fold 5 | Traning and Evaluate Validation
+AUC of validation: 0.7565475400355166
+****************************************
+
+Fold Finished
+AUC MEAN: 0.7541651239977345
+AUC STD: 0.00135465918331365
